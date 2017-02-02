@@ -1,0 +1,16 @@
+# Runtime data
+pids
+*.pid
+*.seed
+
+#build caches
+.sass-cache/
+.grunt/
+
+#dependencies
+node_modules/
+bower_components/
+
+#ide
+.idea/
+*.DS_Store
